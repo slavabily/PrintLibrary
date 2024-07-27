@@ -3,7 +3,7 @@
 
 import Foundation
 
-class Sequences {
+public class Sequences {
     
    static let share = Sequences()
     
