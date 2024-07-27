@@ -3,10 +3,16 @@
 
 import Foundation
 
-func oneTwoThreeFourFive() {
-    let p = "1, 2, 3, 4, 5"
-    print(p)
+class Sequences {
+    
+   static func numbers() {
+        let p = "1, 2, 3, 4, 5"
+        print(p)
+    }
+    
 }
+
+
 
 
 
