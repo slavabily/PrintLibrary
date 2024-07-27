@@ -5,9 +5,9 @@ import Foundation
 
 public class Sequences {
     
-   static let share = Sequences()
+ public static let share = Sequences()
     
-   static func numbers() {
+   public static func numbers() {
         let p = "1, 2, 3, 4, 5"
         print(p)
     }
